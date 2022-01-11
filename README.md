@@ -1,1 +1,1 @@
- User can Chat on this Application by creating their account
+  This is a Chat Application Where another user can send a text to the former user by adding his /her id through new contact. Here in this application, we will have a NodeJS server, this server is for handling all the communications among the users.
